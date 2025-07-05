@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resim">
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>back.jpg</file>
+        <file>bomb.png</file>
+        <file>bombefect.png</file>
+    </qresource>
+</RCC>
